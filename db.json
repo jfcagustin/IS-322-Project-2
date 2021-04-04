@@ -1,0 +1,11 @@
+{
+  "posts": [
+     { "id": 1, "title": "Watch Jujutsu Kaisen", "type": "Entertainment", "column": "done" },
+    { "id": 2, "title": "IS-322 Project 1",  "type": "Academic", "column": "review" },
+    { "id": 3, "title": "Pass IS-322",  "type": "Academic", "column": "in-progress" },
+    { "id": 4, "title": "Watch One Piece",  "type": "Entertainment", "column": "todo" },
+    { "id": 5, "title": "Finish selling computers",  "type": "Finance", "column": "todo" },
+    { "id": 6, "title": "Building new computer",  "type": "Hobby", "column": "done" },
+    { "id": 7, "title": "Complete MvM Tour Two Cities 3/4",  "type": "Entertainment", "column": "todo" }
+  ]
+}
